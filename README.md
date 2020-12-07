@@ -1,6 +1,6 @@
 # login_automate
 
-Automate the login process to a website you visit frequently!
+Automate the login process to a website you visit frequently.
 
 Here I utilized selenium web driver to manipulate the DOM.
 
